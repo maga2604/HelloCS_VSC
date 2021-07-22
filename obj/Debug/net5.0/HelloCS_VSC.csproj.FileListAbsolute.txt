@@ -1,0 +1,16 @@
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\HelloCS_VSC.exe
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\HelloCS_VSC.deps.json
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\HelloCS_VSC.runtimeconfig.json
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\HelloCS_VSC.runtimeconfig.dev.json
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\HelloCS_VSC.dll
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\ref\HelloCS_VSC.dll
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\bin\Debug\net5.0\HelloCS_VSC.pdb
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.csproj.AssemblyReference.cache
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.AssemblyInfoInputs.cache
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.AssemblyInfo.cs
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.csproj.CoreCompileInputs.cache
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.dll
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\ref\HelloCS_VSC.dll
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.pdb
+D:\Programing\C_sharp&.NET\Chapter1\HelloCS_VSC\obj\Debug\net5.0\HelloCS_VSC.genruntimeconfig.cache
